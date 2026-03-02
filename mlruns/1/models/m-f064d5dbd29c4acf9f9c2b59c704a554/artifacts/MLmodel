@@ -1,0 +1,23 @@
+artifact_path: /Users/ethan/Desktop/School/DL-lab/lab-4-mlp-sonar-ethanpschoen/mlruns/1/models/m-f064d5dbd29c4acf9f9c2b59c704a554/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.4
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0
+mlflow_version: 3.10.0
+model_id: m-f064d5dbd29c4acf9f9c2b59c704a554
+model_size_bytes: 19521
+model_uuid: m-f064d5dbd29c4acf9f9c2b59c704a554
+prompts: null
+run_id: 814b32c284e747279d1186a6a079d6c1
+utc_time_created: '2026-02-25 19:35:16.495284'
